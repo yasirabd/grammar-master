@@ -1,0 +1,5 @@
+{
+  "name": "GrammarMaster Tenses Quiz",
+  "description": "A dynamic quiz application generating 25 questions on Present, Past, and Present Perfect Tense with detailed explanations and scoring.",
+  "requestFramePermissions": []
+}
